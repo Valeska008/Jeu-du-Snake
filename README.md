@@ -18,10 +18,10 @@ Téléchargez ou clonez le projet depuis GitHub : le lien....
 
 - Objectif : Faites grandir le serpent en mangeant les aliments, tout en évitant les collisions.
 - Contrôles :
-↑ : Aller vers le haut
-↓ : Aller vers le bas
-← : Aller vers la gauche
-→ : Aller vers la droite
+↑ : Aller vers le haut;
+↓ : Aller vers le bas;
+← : Aller vers la gauche;
+→ : Aller vers la droite.
 
 - Règles :
 Chaque aliment mangé augmente votre score.
