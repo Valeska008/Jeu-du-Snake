@@ -1,5 +1,5 @@
 # Nom du Projet
-Jeu-du-Snake
+Jeu du Snake
 
 ## Description
 .......
@@ -11,16 +11,18 @@ Jeu-du-Snake
 -
 
 ## Installation
+.....
 
 ## Utilisations
+......
 
 ## Contribueurs
 
-- Fevilien Valeska Rose Naella
+- Fevilien Valeska Rose Naëlla
 - Paul Anne Flore
 - Desinor Chloe Erica
 - Louissaint Murielle Clara
 
 ## License
 
-Ce projet est sous Licence MIT -voir le fichier [License] (License) pour plus de details.
+Ce projet est sous Licence MIT -voir le fichier [License] pour plus de details.
