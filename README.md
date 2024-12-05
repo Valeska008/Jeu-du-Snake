@@ -17,22 +17,25 @@ Téléchargez ou clonez le projet depuis GitHub : le lien....
 ## Utilisations
 
 - Objectif : Faites grandir le serpent en mangeant les aliments, tout en évitant les collisions.
-- Contrôles :
-↑ : Aller vers le haut;
-↓ : Aller vers le bas;
-← : Aller vers la gauche;
-→ : Aller vers la droite.
+- Contrôles : Utilisez les flèches du clavier pour déplacer le serpent :
+1. Flèche Haut : le serpent se déplace vers le haut.
+2. Flèche Bas : le serpent se déplace vers le bas.
+3. Flèche Gauche : le serpent se déplace vers la gauche.
+4. Flèche Droite : le serpent se déplace vers la droite.
 
 - Règles :
-Chaque aliment mangé augmente votre score.
-La partie se termine si le serpent touche un mur ou son propre corps.
+1. Le serpent grandit chaque fois qu’il mange une pomme.
+2. Vous gagnez des points pour chaque pomme mangée. Par exemple, chaque pomme vaut 1 point.
+3. Évitez les collisions :
+Si le serpent touche les bords du plateau, la partie est terminée.
+Si le serpent se mord lui-même (en touchant son propre corps), vous perdez également.
 
-## Contribueurs
+## Contributeurs
 
-- Fevilien Valeska Rose Naëlla
-- Paul Anne Flore
-- Desinor Chloe Erica
-- Louissaint Murielle Clara
+- Fevilien Valeska Rose Naëlla - Développeur Frontend et Backend / Gestionnaire de projet.
+- Paul Anne Flore - Designer
+- Desinor Chloe Erica - Développeur Backend
+- Louissaint Murielle Clara - Designer 
 
 ## License
 
