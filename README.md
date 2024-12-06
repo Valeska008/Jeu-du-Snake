@@ -19,8 +19,8 @@ Le Jeu du Snake est un jeu interactif où le joueur contrôle un serpent qui doi
 - Extrayez le fichier ZIP téléchargé dans un dossier sur votre ordinateur.
 
 2. Ouvrir directement dans un Navigateur:
--Localisez le fichier index.html dans votre explorateur de fichiers.
--Faites un clic droit dessus et sélectionnez "Ouvrir avec" > votre navigateur préféré (par exemple, Chrome).
+- Localisez le fichier index.html dans votre explorateur de fichiers.
+- Faites un clic droit dessus et sélectionnez "Ouvrir avec" > votre navigateur préféré (par exemple, Chrome).
 
 ## Utilisations
 
