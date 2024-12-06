@@ -6,18 +6,21 @@ Le Jeu du Snake est un jeu interactif où le joueur contrôle un serpent qui doi
 
 ## Fonctionnalités
 
-- Mouvement du serpent contrôlé par les touches du clavier (↑, ↓, ←, →)
+- Mouvement du serpent contrôlé par les touches du clavier.
 - Génération aléatoire des aliments sur le plateau de jeu.
 - Système de score basé augmente sur le nombre d'aliments consommés.
 - Gestion des collisions (avec les murs et le corps du serpent)
 
 ## Installation
 
-1. Télécharger le Projet depuis GitHub
-- Rendez-vous sur la page GitHub de votre projet.
+1. Télécharger le Projet depuis GitHub:
+- Rendez-vous sur la page GitHub du projet intitulé " Jeu-du-Snake".
 - Cliquez sur le bouton Code (vert) puis sélectionnez Download ZIP.
 - Extrayez le fichier ZIP téléchargé dans un dossier sur votre ordinateur.
 
+2. Ouvrir directement dans un Navigateur:
+-Localisez le fichier index.html dans votre explorateur de fichiers.
+-Faites un clic droit dessus et sélectionnez "Ouvrir avec" > votre navigateur préféré (par exemple, Chrome).
 
 ## Utilisations
 
