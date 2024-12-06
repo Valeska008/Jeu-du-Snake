@@ -8,7 +8,7 @@ Le Jeu du Snake est un jeu interactif où le joueur contrôle un serpent qui doi
 
 - Mouvement du serpent contrôlé par les touches du clavier.
 - Génération aléatoire des aliments sur le plateau de jeu.
-- Système de score basé augmente sur le nombre d'aliments consommés.
+- Système de score basé sur le nombre d'aliments consommés.
 - Gestion des collisions (avec les murs et le corps du serpent)
 
 ## Installation
